@@ -3,7 +3,7 @@
 💻 **Python & Fullstack Developer** | 🚀 **Automação & IA** | 📡 **IoT Enthusiast (Arduino)** | 🏆 **Competitive Programmer**  
 Experiência em **Django, Flask, FastAPI**, automação de tarefas, Cloud (**GCP**), liderança técnica e frontend moderno com **React.js + TypeScript**.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=lord2pm&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=lord2pm&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&v=1)
 
 ---
 
@@ -28,8 +28,8 @@ Experiência em **Django, Flask, FastAPI**, automação de tarefas, Cloud (**GCP
 
 ## 📊 GitHub Stats & Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lord2pm&theme=vue-dark&hide_border=true)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lord2pm&theme=vue&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=lord2pm&theme=vue-dark&hide_border=true&v=1)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lord2pm&theme=vue&hide_border=true&v=1)
 
 ---
 
