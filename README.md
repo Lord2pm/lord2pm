@@ -24,6 +24,12 @@ Experiência em **Django, Flask, FastAPI**, automação de tarefas, Cloud (**GCP
 
 ---
 
+## 📊 Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lord2pm&layout=compact&theme=vue-dark&hide_border=true)
+
+---
+
 ## 🏆 Achievements
 
 - 🏅 **6º lugar no Concurso Nacional de Programação Competitiva AOCPC 2024**.  
