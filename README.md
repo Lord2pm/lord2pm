@@ -1,10 +1,5 @@
 # Hi, I'm Luís Muhele - Lord 2pm! 👋
 
-💻 **Python & Fullstack Developer** | 🚀 **Automação & IA** | 📡 **IoT Enthusiast (Arduino)** | 🏆 **Competitive Programmer**  
-Experiência em **Django, Flask, FastAPI**, automação de tarefas, Cloud (**GCP**), liderança técnica e frontend moderno com **React.js + TypeScript**.
-
----
-
 ## 🚀 About Me
 
 - 🐍 Desenvolvedor **Python** com foco em **Django, Flask e FastAPI** para aplicações escaláveis.  
@@ -18,15 +13,15 @@ Experiência em **Django, Flask, FastAPI**, automação de tarefas, Cloud (**GCP
 
 ---
 
-## 🛠 Tech Stack
-
-[![Skills](https://skillicons.dev/icons?i=python,django,flask,fastapi,selenium,react,typescript,postgresql,mysql,sqlite,git,linux,gcp,arduino,js,nodejs)](https://skillicons.dev)
-
----
-
 ## 📊 Linguagens Mais Usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lord2pm&layout=compact&theme=vue-dark&hide_border=true)
+
+---
+
+## 🛠 Tech Stack
+
+[![Skills](https://skillicons.dev/icons?i=python,django,flask,fastapi,selenium,react,typescript,postgresql,mysql,sqlite,git,linux,gcp,arduino,js,nodejs)](https://skillicons.dev)
 
 ---
 
